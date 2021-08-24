@@ -2,7 +2,7 @@
     "name": "rmc-snippets",
     "displayName": "rmc-snippets",
     "description": "React Material-UI Component Snippets",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.59.0"
     },
