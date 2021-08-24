@@ -1,0 +1,22 @@
+{
+    "name": "rmc-snippets",
+    "displayName": "rmc-snippets",
+    "description": "React Material-UI Component Snippets",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "publisher": "JonathanGalentine",
+    "repository": "https://github.com/jgalentine007/rmc-snippets",
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "React Material-UI Component": {
+		"prefix": "rmc",
+		"body": [
+			"import React from 'react';",
+			"import {",
+  		"\tmakeStyles,",
+			"} from '@material-ui/core';",
+			"",
+			"const useStyles = makeStyles(() => ({ }));",
+			"",
+			"function $0() {",
+  		"\tconst classes = useStyles();",
+  		"\treturn (",
+    	"\t\t<div />",
+  		"\t);",
+			"}",
+			"",
+			"export default $0;",
+			"",
+		]
+	}
+}
